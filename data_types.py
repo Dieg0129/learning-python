@@ -40,6 +40,7 @@ print(colores)
 
 ##Posición de la lista:
 print("Colores: ", type(colores[2]))
+print("Colores: ", colores[2])
 
 #5. Tuplas
 #6. Diccionarios
